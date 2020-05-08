@@ -6,7 +6,7 @@ Are you looking for a template, which you can use as a website for your company?
 ### [LIVE](https://richboyscrytoo.github.io/MoGo/)
 **Technologies used:**
  - HTML
- - Bootstrap
+ - CSS
  - JavaScript
  
  **Steps to execute this project:**
