@@ -1,7 +1,7 @@
-# Book List
+# MoGo
 <a href="https://imgur.com/mUG8Ohy"><img src="https://i.imgur.com/mUG8Ohy.gif" title="source: imgur.com" /></a>
 **Description:**
-No idea what to read today? Then this simple app will help you. Prepare a list of books you want to read and you will never get such question again. Book List stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+Are you looking for a template, which you can use as a website for your company? Check MoGo! It's simple, creative and beautiful. It consists of different blocks, which you can change as you wish. Don't overthink just grab it and use:)
 ### [LIVE](https://richboyscrytoo.github.io/MoGo/)
 **Technologies used:**
  - HTML
